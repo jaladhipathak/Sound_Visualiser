@@ -1,6 +1,6 @@
 # Sound_Visualiser
 
-This project is an java Based Application.
+This project is a java Based Application.
 It is based on Java Media Framework, Java Sound API and Java Swing.
 The libraries used are Java Processing and Java minim.
 
